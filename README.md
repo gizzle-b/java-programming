@@ -1,5 +1,7 @@
 Course Assessment for: Introduction to Programming
 
+This assessment item is designed to test a student's understanding of arrays/arrayLists, objects, classes, sorting and searching.
+
 Assessment Criteria
 
 1. Efficient object-oriented program design.
